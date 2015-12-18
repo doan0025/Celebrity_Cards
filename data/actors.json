@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "id":1,"name": "Angelina Jolie",
+  
+      "desc": "Angelina Jolie is an Oscar-winning actress who became popular after playing the title role in the "Lara Croft" blockbuster movies, as well as Mr. & Mrs. Smith (2005), Wanted (2008), Salt (2010) and Maleficent (2014).",
+    "Born":"June 4, 1975",
+    "age":41,
+    },
+          
+    {
+      "id": 2,"name": "Ben Affleck",
+  
+      "desc": "Benjamin Géza Affleck-Boldt was born on August 15, 1972 in Berkeley, California, USA, and was raised in Cambridge, Massachusetts, USA.",
+    "Born":"August 15, 1972",
+    "age":43,      
+    },    
+ 
+    {
+      "id": 3,
+      "name": "Demi Lovato",
+  
+      "desc": "Demetria Devonne Lovato was born on August 20, 1992 in Albuquerque, New Mexico, USA, to Dianna Hart (née Dianna Lee Smith), a former Dallas Cowboy cheerleader, and Patrick Martin Lovato, an engineer and musician. ",
+    "Born":"August 20, 1992",
+    "age":24,     
+    },
+ 
+    {
+      "id": 4,
+      "name": "Christopher Waltz",
+  
+      "desc": "Christoph Waltz was born in Vienna, Austria, to Elisabeth Urbancic, an Austrian-born costume designer, and Johannes Waltz, a German-born stage builder. ",
+    "Born":"October 4, 1956",
+    "age":46,
+    },
+
+    {
+      "id": 5,
+      "name": "Jeff Goldblum",
+  
+      "desc": "Jeffrey Lynn Goldblum was born October 22, 1952 in Pittsburgh, Pennsylvania, one of four children of Shirley (Temeles), a radio broadcaster who also ran an appliances firm, and Harold L. Goldblum, a doctor.",
+    "Born":"October 22, 1952", 
+    "age":52,
+    },
+      
+      
+        {
+     "id": 6,
+      "name": "Keanu Reeves",
+  
+      "desc": "Keanu Reeves, whose first name means "cool breeze over the mountains" in Hawaiian, was born in Beirut, Lebanon in 1964, the son of English-born Patricia Taylor, a showgirl, and American-born Samuel Nowlin Reeves, a geologist. ",
+    "Born":"September 2, 1964",
+    "age":50,
+      
+    },
+      
+      {
+      "id": 7,
+      "name": "Lamar Odom",
+  
+      "desc": "Lamar Odom was born on November 6, 1979 in Jamaica, New York, USA as Lamar Joseph Odom. He is an actor, known for Khloé & Lamar (2011), Keeping Up with the Kardashians (2007) and Hood of Horror (2006). ",
+    "Born":"November 6, 1979",
+    "age":35,
+      
+    },
+      
+      {
+     "id": 8,
+      "name": "Robert De Niro",
+  
+      "desc": "Robert De Niro is an American actor and producer who has starred in over 90 films. His first major film roles were in the sports drama Bang the Drum Slowly and Martin Scorsese's crime film Mean Streets.",
+    "Born":"August 17, 1943",
+    "age":72,
+      
+    },
+      {
+     "id": 9,
+      "name": "Leona Lewis",
+  
+      "desc": "Leona Lewis was born on April 3, 1985 in Islington, London, England as Leona Louise Lewis. ",
+    "Born":"April 3, 1985",
+    "age": 31,
+      
+    },
+      {
+     "id": 10,
+      "name": "Richard Gere",
+  
+      "desc": "Humanitarian and actor Richard Gere was born on August 31, 1949, in Philadelphia, the second of five children of Doris Ann (Tiffany), a homemaker, and Homer George Gere, an insurance salesman, both Mayflower descendants. ",
+    "Born":"August 31, 1949",
+    "age":65,      
+    },
+
+    {
+     "id": 11,
+      "name": "Robert Pattison",
+  
+      "desc": "Robert Douglas Thomas Pattinson was born May 13, 1986 in London, England, to Clare (Charlton), who worked at a modeling agency, and Richard Pattinson, a vintage car importer. ",
+    "Born":"May 13, 1986",
+    "age":28,      
+    },
+      
+    {
+      "id": 12,
+      "name": "Robert Redford",
+  
+      "desc": "Charles Robert Redford, Jr. was born on August 18, 1936, in Santa Monica, California, to Martha (Hart), from Texas, and Charles Robert Redford, an accountant for Standard Oil, who was originally from Connecticut.",
+    "Born":"August 18, 1936",
+    "age":78,      
+    },
+      
+    {
+     "id": 13,
+      "name": "Robin Williams",
+  
+      "desc": "Robin McLaurin Williams was born on Saturday, July 21st, 1951, in Chicago, Illinois, a great-great-grandson of Mississippi Governor and Senator, Anselm J. McLaurin",
+    "Born":"July 21, 1951",
+    "age":63,      
+    },      
+      
+    {
+       "id": 14,
+      "name": "Russell Crowe",
+  
+      "desc": "Russell Ira Crowe was born in Wellington, New Zealand, to Jocelyn Yvonne (Wemyss) and John Alexander Crowe, both of whom catered movie sets. ",
+    "Born":"April 7, 1964",
+    "age":50,      
+    },      
+      
+    {
+      "id": 15,
+      "name": "Simon Cowell",
+  
+      "desc": "Simon was born in London, England. His parents were Julie Cowell and Eric Cowell. Cowell started his career in the music industry working in the mailroom at EMI Music Publishing. ",
+    "Born":"October 7, 1959",
+    "age":57,       
+    } 
+  ]
+}
